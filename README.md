@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hey there 👋
+
+I'm Jesus Alvarez, a Full Stack Developer from Mexico but currently living in Spain. I mainly code in Python and JavaScript, but I am always learning. I am currently working on a couple of freelance projects using microservices with Django which is a field I find very interesting :D
+
+#### Talking about personal stuff:
+
+- sadasd
+- asdsadsa
+- asdadssa
+- asddada
 
 <!--
 **jsgilberto/jsgilberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
