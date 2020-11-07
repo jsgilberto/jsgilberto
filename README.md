@@ -1,8 +1,8 @@
-### Hey there 👋
+## Hey there 👋
 
 I'm Jesus Alvarez, a Full Stack Developer:rocket: from Mexico but currently living in Spain. I mainly code in Python and JavaScript :nerd_face:, but I am always learning. I am currently working on a couple of freelance projects using microservices with Django which is a field I find very interesting :smile:
 
-#### Talking about Personal stuff:
+### Talking about Personal stuff:
 
 Non-work related stuff:
 
