@@ -18,7 +18,7 @@ Non-work related stuff:
 
 - :heartbeat: Love watching Terror movies & series (big fan of Supernatural TV series & The Conjuring movies :star_struck:)
 - :cook: Enjoy cooking new recipes
-- :relaxed: Spend my free time reading books & playing video games (love FPS games: Halo, Apex Legends, etc)
+- :relaxed: Spend my free time reading books & playing video games
 
 
 
