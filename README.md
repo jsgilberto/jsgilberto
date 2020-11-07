@@ -4,10 +4,11 @@ I'm Jesus Alvarez, a Full Stack Developer from Mexico but currently living in Sp
 
 #### Talking about personal stuff:
 
-- sadasd
-- asdsadsa
-- asdadssa
-- asddada
+- I'm currently working in something cool ;)
+- I'm currently learning AWS for the Developer certification;
+- Ask me about anything (whitin reason), I am happy to help;
+- How to reach me: [in/alvarezjesus](https://www.linkedin.com/in/alvarez-jesus/)
+- [Resume](https://drive.google.com/file/d/1gpNtRfzd-jod1f81sBsbFJjrUxvEJf7_/view?usp=sharing)
 
 <!--
 **jsgilberto/jsgilberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
