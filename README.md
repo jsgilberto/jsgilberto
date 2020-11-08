@@ -9,7 +9,7 @@ I'm Jesus Alvarez, a Full Stack Developer:rocket: from Mexico but currently livi
 Work related stuff:
 
 - :man_technologist: I'm currently working in something cool :wink:
-- :trophy: I'm currently learning AWS for the Developer Associate certification;
+- :trophy: I'm learning AWS for the Developer Associate certification;
 - :speech_balloon: Ask me about anything (whitin reason), I am happy to help;
 - :mailbox: How to reach me: [in/alvarezjesus](https://www.linkedin.com/in/alvarez-jesus/)
 - :memo: [Resume](https://drive.google.com/file/d/1gpNtRfzd-jod1f81sBsbFJjrUxvEJf7_/view?usp=sharing)
