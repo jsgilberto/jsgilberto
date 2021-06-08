@@ -10,7 +10,6 @@ Work related stuff:
 - :trophy: I'm learning about CI/CD on the cloud (AWS);
 - :speech_balloon: Ask me about anything (whitin reason), I am happy to help;
 - :mailbox: How to reach me: [in/alvarezjesus](https://www.linkedin.com/in/alvarez-jesus/)
-- :memo: [Resume](https://drive.google.com/file/d/1gpNtRfzd-jod1f81sBsbFJjrUxvEJf7_/view?usp=sharing)
 
 Non-work related stuff:
 
